@@ -12,9 +12,3 @@ Eleventh line
 Twelveth line
 
 changed here
-
-changed 2
-
-changed 3
-
-changed 4
